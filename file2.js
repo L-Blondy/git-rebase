@@ -12,3 +12,6 @@ console.log(
 console.log(
 	'bug fix 3'
 );
+console.log(
+	'improved feat2'
+);
