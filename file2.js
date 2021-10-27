@@ -9,3 +9,6 @@ console.log(
 console.log(
 	'bug fix 2'
 );
+console.log(
+	'bug fix 3'
+);
