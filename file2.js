@@ -3,5 +3,5 @@ console.log(
 );
 
 console.log(
-	'bug fix'
+	'new feature'
 );
