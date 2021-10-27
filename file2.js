@@ -12,3 +12,7 @@ console.log(
 console.log(
 	'improved feat2'
 );
+
+console.log(
+	'improved feat2 even more'
+);
