@@ -5,3 +5,7 @@ console.log(
 console.log(
 	'new feature'
 );
+
+console.log(
+	'bug fix 2'
+);
